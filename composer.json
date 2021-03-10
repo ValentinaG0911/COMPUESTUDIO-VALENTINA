@@ -1,0 +1,20 @@
+{
+    "name": "Valentina Gomez ",
+    "description": "Core",
+    "license": "MIT",
+    "homepage": "http://localhost.com",
+    "keywords": [
+        "KEY",
+        "ETC"
+    ],
+    "authors": [{
+        "name": "Valentina Gomez ",
+        "email": "valentinagomezparra2017@gmail.com",
+        "role": "Developer"
+    }],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~7.0"
+    },
+    "require-dev": {}
+}
